@@ -1,0 +1,31 @@
+{
+  "name": "user_auth_with_mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasika1516/Product.git"
+  },
+  "author": "Rasika Nale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasika1516/Product/issues"
+  },
+  "homepage": "https://github.com/Rasika1516/Product#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.0",
+    "nodemailer": "^6.9.14",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
